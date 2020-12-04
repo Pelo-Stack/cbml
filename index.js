@@ -12,12 +12,12 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'ST4RZ BOT 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/bintang_nur_pradana'; // Nama Instagramlu cok
-const whatsapplu = '0819-4698-3575'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://chat.whatsapp.com/KLW3UlFfeaH36Ucm5zRfCz'; // OFFICIAL GRUP LU 2
+const BotName = 'BOT X-PLAY'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/anggorgamep'; // Nama Instagramlu cok
+const whatsapplu = '0838-7006-8641'; // Nomor whatsapplu cok
+const kapanbotaktif = 'Ketika Hanya Diaktifkan'; // Kapan bot lu aktif
+const grupch1 = 'https://chat.whatsapp.com/EGxI3JwkkSQ876vWHKC0s2'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://chat.whatsapp.com/JyltroeLvoaIX3ZFKDcY4G'; // OFFICIAL GRUP LU 2
 //
 const
 {
